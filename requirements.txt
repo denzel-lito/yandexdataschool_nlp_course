@@ -16,3 +16,5 @@ scikit-learn-1.2.0
 bokeh==3.0.3
 torch==1.13.1
 torchsummary==1.5.1
+subword_nmt==0.3.8
+transformers==4.26.1
